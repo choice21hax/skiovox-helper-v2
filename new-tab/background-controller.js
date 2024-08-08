@@ -4,7 +4,7 @@ const TextColors = {
 }
 
 class BackgroundController {
-    static DEFAULT_COLOR = "#212121";
+     background-image: url("download.jpeg");
 
     constructor(element) {
         this.element = element
